@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anir92
-- 👀 I’m interested in Physics, astrophysics, related softwares, X-ray Astronomy, Linux OS
+- 👀 I’m interested in Physics, astrophysics, X-ray Astronomy, Linux OS
 - 🌱 I’m currently learning Geant4
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
